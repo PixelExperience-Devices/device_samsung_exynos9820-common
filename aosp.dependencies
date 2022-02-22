@@ -7,7 +7,7 @@
   },
   {
     "repository"  : "kernel_samsung_exynos9820",
-    "target_path" : "kernel/samsung/exyos9820",
+    "target_path" : "kernel/samsung/exynos9820",
     "branch"      : "twelve",
     "remote"      : "pixel-devices"
   },
