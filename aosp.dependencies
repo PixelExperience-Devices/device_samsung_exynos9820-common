@@ -1,0 +1,26 @@
+[
+  {
+    "repository"  : "LineageOS/android_device_samsung_slsi_sepolicy",
+    "target_path" : "device/samsung_slsi/sepolicy",
+    "branch"      : "lineage-19.0",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "kernel_samsung_exynos9820",
+    "target_path" : "kernel/samsung/exyos9820",
+    "branch"      : "twelve",
+    "remote"      : "pixel-devices"
+  },
+  {
+    "repository"  : "hardware/samsung",
+    "target_path" : "hardware/samsung",
+    "branch"      : "twelve",
+    "remote"      : "pixel"
+  },
+  {
+    "repository"  : "vendor_samsung",
+    "target_path" : "vendor/samsung",
+    "branch"      : "twelve",
+    "remote"      : "pixel-devices-blobs"
+  }
+]
