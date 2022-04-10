@@ -2,7 +2,7 @@
   {
     "repository"  : "LineageOS/android_device_samsung_slsi_sepolicy",
     "target_path" : "device/samsung_slsi/sepolicy",
-    "branch"      : "lineage-19.0",
+    "branch"      : "lineage-19.1",
     "remote"      : "github"
   },
   {
