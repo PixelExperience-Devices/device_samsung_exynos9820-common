@@ -1,0 +1,22 @@
+[
+    {
+        "repository": "device_samsung_slsi_sepolicy",
+        "target_path": "device/samsung_slsi/sepolicy",
+        "branch": "thirteen"
+    },
+    {
+        "repository": "hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "thirteen"
+    },
+    {
+        "repository": "kernel_samsung_exynos9820",
+        "target_path": "kernel/samsung/exynos9820",
+        "branch": "thirteen"
+    },
+    {
+        "repository": "vendor_samsung_exynos9820",
+        "target_path": "vendor/samsung/",
+        "branch": "thirteen"
+    }
+]
