@@ -2,21 +2,26 @@
     {
         "repository": "device_samsung_slsi_sepolicy",
         "target_path": "device/samsung_slsi/sepolicy",
-        "branch": "thirteen"
+        "branch": "thirteen",
+        "remote": "pixel"
     },
     {
         "repository": "hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "thirteen"
+        "branch": "thirteen",
+        "remote": "pixel"
     },
     {
         "repository": "kernel_samsung_exynos9820",
         "target_path": "kernel/samsung/exynos9820",
-        "branch": "thirteen"
+        "branch": "thirteen",
+        "remote": "pixel-devices"
     },
     {
-        "repository": "vendor_samsung_exynos9820",
-        "target_path": "vendor/samsung/",
-        "branch": "thirteen"
+        "repository": "vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "thirteen",
+        "remote": "pixel-devices-blobs"
+
     }
 ]
